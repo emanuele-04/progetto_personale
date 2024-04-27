@@ -1,0 +1,45 @@
+body{
+    font-family: "Marcellus SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgba(83, 83, 158, 0.237);
+  
+}
+
+
+/* navbar */
+.navbar{
+  background-color: rgba(52, 95, 148, 0.715);
+  box-shadow: 0px 0px 5px 5px rgba(250, 249, 251, 0.626);
+  
+}
+
+/* sezione 1 */
+.fotoshadow{
+  box-shadow: 0px 0px 5px 5px rgb(249, 248, 250);
+
+}
+.sezioneborod{
+  border-bottom: 30px darkblue;
+}
+
+
+
+
+/* footer */
+.footer{
+
+  background-color: rgba(52, 95, 148, 0.715);
+}
+
+
+/* SEZIONE CONTATTI */
+
+/* SOCIAL */
+/* .imagesfondo{
+  background-image: url(/public/webdev.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50vh;
+} */
